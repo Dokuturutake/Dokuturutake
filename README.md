@@ -60,6 +60,8 @@ As a developer, I noticed how social media platforms captivate users' attention.
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dokuturutake&show_icons=true&theme=radical)
 
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dokuturutake&theme=github)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dokuturutake&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dokuturutake&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
