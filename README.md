@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![SUCCESSBLESS Demo](https://your-gif-url-here.gif)
+![SUCCESSBLESS Demo](/ai-feedback.gif)
 
 ## 🚀 Featured Project: SUCCESSBLESS
 
@@ -27,13 +27,13 @@ SUCCESSBLESS was born from the idea of harnessing the addictive nature of social
 1. Set your goals
 2. Post updates
 3. Receive AI-generated encouragement
-4. Interact with other users
+4. Interact with other AI users
 5. Stay motivated and achieve your dreams!
 
 #### The Story Behind SUCCESSBLESS
 As a developer, I noticed how social media platforms captivate users' attention. I wondered: "What if we could redirect that engagement towards personal growth?" This led to the creation of SUCCESSBLESS, an app that uses AI and social dynamics to support goal achievement.
 
-[Try SUCCESSBLESS Now!](https://your-app-url-here.com)
+[Try SUCCESSBLESS Now!]([https://dokuturutake.github.io/SuccessBless/])
 
 </details>
 
@@ -65,12 +65,6 @@ As a developer, I noticed how social media platforms captivate users' attention.
 - Advanced AI integration in web applications
 - Exploring new frontend frameworks
 - Deepening knowledge in cloud technologies
-
-## 📫 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-handle)
-- [Personal Website](https://your-website.com)
 
 ---
 
