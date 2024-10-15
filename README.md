@@ -68,5 +68,3 @@ As a developer, I noticed how social media platforms captivate users' attention.
 
 ---
 
-💡 "The best way to predict the future is to create it." - Peter Drucker
-
