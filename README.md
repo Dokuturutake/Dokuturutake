@@ -58,7 +58,7 @@ As a developer, I noticed how social media platforms captivate users' attention.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dokuturutake&show_icons=true&theme=radical)
 
 ## 🌱 Current Learning Goals
 
